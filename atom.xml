@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[TODO: think up a good title]]></title>
   <link href="http://furagu.github.io/atom.xml" rel="self"/>
   <link href="http://furagu.github.io/"/>
-  <updated>2015-03-05T17:43:27+07:00</updated>
+  <updated>2015-03-05T18:11:06+07:00</updated>
   <id>http://furagu.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Egor Balyshev]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
